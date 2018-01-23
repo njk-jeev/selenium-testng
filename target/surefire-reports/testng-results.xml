@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="176943" started-at="2016-12-04T07:49:55Z" finished-at="2016-12-04T07:52:52Z">
+    <groups>
+    </groups>
+    <test name="HelpCentral" duration-ms="176943" started-at="2016-12-04T07:49:55Z" finished-at="2016-12-04T07:52:52Z">
+      <class name="com.yahoo.ycem.tests.helpcentral.HelpCentralTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.yahoo.ycem.tests.helpcentral.HelpCentralTest@132ec19]" name="before" is-config="true" duration-ms="38935" started-at="2016-12-03T23:49:55Z" finished-at="2016-12-03T23:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="helpcentralTitleTest()[pri:0, instance:com.yahoo.ycem.tests.helpcentral.HelpCentralTest@132ec19]" name="helpcentralTitleTest" duration-ms="130663" started-at="2016-12-03T23:50:34Z" finished-at="2016-12-03T23:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helpcentralTitleTest -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.yahoo.ycem.tests.helpcentral.HelpCentralTest@132ec19]" name="after" is-config="true" duration-ms="7317" started-at="2016-12-03T23:52:44Z" finished-at="2016-12-03T23:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="stopChromeServiceIfBrowserIsChrome()[pri:0, instance:com.yahoo.ycem.tests.helpcentral.HelpCentralTest@132ec19]" name="stopChromeServiceIfBrowserIsChrome" is-config="true" duration-ms="0" started-at="2016-12-03T23:52:52Z" finished-at="2016-12-03T23:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopChromeServiceIfBrowserIsChrome -->
+      </class> <!-- com.yahoo.ycem.tests.helpcentral.HelpCentralTest -->
+    </test> <!-- HelpCentral -->
+  </suite> <!-- Suite1 -->
+</testng-results>
